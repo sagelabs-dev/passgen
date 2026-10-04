@@ -531,3 +531,7 @@ If passgen saves you time, consider sponsoring ongoing maintenance and developme
 ## License
 
 MIT — David Newman & Guan
+
+---
+
+Crafted with ❤️ by [Sage Labs](https://sagelabs.dev)
