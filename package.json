@@ -48,12 +48,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guan-tends/passgen.git"
+    "url": "git+https://github.com/sagelabs-dev/passgen.git"
   },
   "bugs": {
-    "url": "https://github.com/guan-tends/passgen/issues"
+    "url": "https://github.com/sagelabs-dev/passgen/issues"
   },
-  "homepage": "https://github.com/guan-tends/passgen#readme",
+  "homepage": "https://github.com/sagelabs-dev/passgen#readme",
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "eslint": "^10.9.0",
