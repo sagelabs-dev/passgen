@@ -57,7 +57,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Documentation of salt constants (golden ratio, π, e, XOR sentinel)
 
 ### Changed
-- Updated `@guan-tends/mcp-ai` from ^1.6.3-guan.0 to ^1.6.6-guan.0
+- Updated `@sagelabs/mcp-ai` from ^1.6.3-guan.0 to ^1.6.6-guan.0
 - npm audit fix applied (0 vulnerabilities)
 
 ### Removed

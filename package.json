@@ -1,5 +1,5 @@
 {
-  "name": "@guan-tends/passgen",
+  "name": "@sagelabs/passgen",
   "version": "0.3.1",
   "description": "Stateless deterministic passphrase generator",
   "main": "passgen.js",
@@ -29,7 +29,7 @@
     "node": ">=20.0.0"
   },
   "dependencies": {
-    "@guan-tends/mcp-ai": "^1.6.6-guan.0",
+    "@sagelabs/mcp-ai": "^1.6.6-guan.0",
     "zod": "^3.22.0"
   },
   "files": [
